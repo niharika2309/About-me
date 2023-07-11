@@ -1,1 +1,9 @@
-# About-me
+👋 Hi, I'm Niharika Batra, a passionate data analyst and business intelligence enthusiast. Currently pursuing a Master of Science in Business Analytics at The University of Texas at Arlington, I am actively seeking an internship opportunity to apply my skills and knowledge in a real-world setting.
+
+👀 With a solid educational background in statistical techniques, programming languages like Python, and data analysis, I have gained a comprehensive understanding of the intricacies of data-driven decision-making. My coursework has equipped me with a strong foundation in machine learning algorithms, database management, and data mining. I am proficient in leveraging programming libraries such as TensorFlow and scikit-learn, and I have experience implementing innovative solutions for data analysis and visualization.
+
+🌱 Throughout my previous work experience, including my role at Benori Knowledge Solutions, I have demonstrated my ability to enhance data accessibility and operational efficiency through the development of Power BI dashboards. Additionally, I have utilized data analysis techniques to identify key factors impacting customer return rate, resulting in actionable insights that reduced customer churn and improved service quality.
+
+💞️ I am enthusiastic about collaborating on projects that involve data analysis and business intelligence. I am eager to contribute my skills to an extraordinary team of professionals, learn from industry experts, and work on groundbreaking techniques that push the boundaries of data-driven decision-making. I am particularly interested in designing and implementing innovative solutions for meaningful data analysis challenges.
+
+📫 You can reach me by email at niharikabatra111@gmail.com or through my LinkedIn profile https://www.linkedin.com/in/niharika-batra . I would be delighted to discuss how my skills and experiences align with your internship opportunity and how I can contribute to your company's remarkable work in data analysis and business intelligence.
